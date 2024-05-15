@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectable
+  - Enemy
+  - Powerup
+  - FallDetector
+  - Checkpoint
+  - NextLevel
+  - PreviousLevel
+  - Crystal
+  - TRAPS/Saw
+  - TRAPS/Spikes
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Foreground
+  - Player
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2049679611
+    locked: 0
+  - name: Midground
+    uniqueID: 1624955053
+    locked: 0
+  - name: Foreground
+    uniqueID: 4184811817
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
